@@ -8,3 +8,5 @@ Diego Hermosilla
 
 ¿Cuántos genes ortólogos están anotados en esa base de datos?
   - En esta base de datos se encuentran 26 genes ortólogos.
+
+lab-2/multifasta.txt
