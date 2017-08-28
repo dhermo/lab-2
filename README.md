@@ -398,7 +398,7 @@ CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA
   - La longitud es de 1932
   
 [imagen 1]()
-[imagen 2]()
+[imagen 2](https://raw.githubusercontent.com/dhermo/lab-2/master/arbolfilogenetico.jpg)
 
 ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
   - La especie más relacionada con el humano es la *Pan troglodyte* (chimpancé común)
