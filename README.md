@@ -1,5 +1,5 @@
 # Informe de laboratorio 02 - Alineamiento de Secuencias
-Diego Hermosilla
+Diego Hermosilla Alfaro
 
 ## Parte 1 - Colectar genes homólogos
 
@@ -387,3 +387,34 @@ CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA
   
 ¿Qué otros tipo de herramientas ofrece EMBL-EBI?
   - Nos ofrece varias herramientas, con las que podemos desde secuenciar proteínas, ensamblar, BLAST, busqueda de estructuras, *DNA back-translation*, etc. 
+  
+¿Cuál es el costo de abrir un gap?
+  - El costo de abrir un gap es de 1.53.
+
+¿Cuál es el costo de extender un gap?  
+  - El costo de extenderlo es de 0.123
+  
+¿Cuál es la longitud total del alineamiento?
+  - La longitud es de 1932
+  
+[imagen 1]()
+[imagen 2]()
+
+¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
+  - La especie más relacionada con el humano es la *Pan troglodyte* (chimpancé común)
+
+¿Cuál es el más lejano?
+  - La especie más lejana es *Pteropus alecto* (zorro volador negro, murciélago)
+  
+¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
+  - La especie *Equus przewalskii*(caballo salvaje mongol)
+  
+¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
+  - Si el costo de un gap aumentara los resultados serían los mismos o muy parecidos ya que al al no variar el costo de extender un gap, seguira siendo más conveniente abrir un solo gap antes que extenderlos. Si disminuye el costo, solo variarían los resultados cuando el costo de abrir un gap fuera menor que el de extenderlo. En ese caso se obtendrian más gaps que extenciones.
+  
+¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?  
+  - De la misma manera, si el costo aumentara más que el costo de abrirlos predominaria el abrir gaps. Si disminuye del establecido no variara demasiado, mientras el de abrir un gap no sea inferior a este.
+  
+¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
+	prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento  
+  - De acuerdo a lo explicado anteriormente la longitud del alineamiento no varia al variar los costos de 1.53 a 2.0, ni al disminuir la extención de estos.  
