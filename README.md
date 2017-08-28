@@ -418,3 +418,8 @@ CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA
 ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
 	prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento  
   - De acuerdo a lo explicado anteriormente la longitud del alineamiento no varia al variar los costos de 1.53 a 2.0, ni al disminuir la extención de estos.  
+  
+  
+## Parte 3 - Diseño de partidores
+
+
