@@ -400,7 +400,8 @@ CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA
 [imagen 1]()
 
 ![imagen 2](https://raw.githubusercontent.com/dhermo/lab-2/master/arbolfilogenetico.jpg)
-Imagen2: Árbol Filogenético 
+Imagen2: Árbol Filogenético
+
 ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
   - La especie más relacionada con el humano es la *Pan troglodyte* (chimpancé común)
 
