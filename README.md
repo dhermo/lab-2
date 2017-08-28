@@ -397,10 +397,11 @@ CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA
 ¿Cuál es la longitud total del alineamiento?
   - La longitud es de 1932
   
-[imagen 1]()
+![imagen 1](https://raw.githubusercontent.com/dhermo/lab-2/master/Alineamiento.jpg)
+Imagen 1: Alineamiento multi FASTA
 
 ![imagen 2](https://raw.githubusercontent.com/dhermo/lab-2/master/arbolfilogenetico.jpg)
-Imagen2: Árbol Filogenético
+Imagen 2: Árbol Filogenético
 
 ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
   - La especie más relacionada con el humano es la *Pan troglodyte* (chimpancé común)
